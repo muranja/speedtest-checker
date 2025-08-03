@@ -49,5 +49,7 @@ python speedtest-checker
 
 ## Understanding Results
 Download Speed: How fast data comes from the internet to your device
+
 Upload Speed: How fast data goes from your device to the internet
+
 Ping: How quickly your device communicates with the internet (lower is better)
